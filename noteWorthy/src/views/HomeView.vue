@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import LayoutOption1 from '@/components/LayoutOption1.vue';
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <LayoutOption1 />
   </main>
 </template>
